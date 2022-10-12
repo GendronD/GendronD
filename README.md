@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @GendronD
-- 👀 I’m interested in mobile development with Flutter/Dart!
-- 🌱 I’m currently learning Flutter/Dart, SOLID software principles, and different design architectures.
-- 💞️ I’m looking to collaborate on interesting projects involving the Flutter framework.
+- 👀 I’m interested in mobile development with Flutter/Dart and Swift/SwiftUI/UIKit as well as backend Go development!
 
 <!---
 GendronD/GendronD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
