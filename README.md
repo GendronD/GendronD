@@ -10,9 +10,4 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me: 
 
-- Website: [Devin Gendron Portfolio](https://gendrond.github.io/personal_site/)
-- Twitter: [@devin_gendron](https://twitter.com/devin_gendron)
-- Instagram: [@gendrond](https://www.instagram.com/gendrond/)
 - LinkedIn: [Devin Gendron](https://linkedin.com/in/devin-gendron-789373ab)
-- GitHub: [GendronD](https://github.com/GendronD)
-- AngelList: [DevinGendron](https://angel.co/u/devin-gendron)
