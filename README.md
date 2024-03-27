@@ -1,11 +1,3 @@
-- 👋 Hi, I’m @GendronD
-- 👀 I’m interested in mobile development with Flutter/Dart and Swift/SwiftUI/UIKit as well as backend Go development!
-
-<!---
-GendronD/GendronD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-- 📫 How to reach me: 
-
+Dynamic Lead Mobile Engineer with a strong foundation in iOS and Flutter app development; complemented by backend proficiency in Go APIs. Recognized for autonomously driving end-to-end mobile application and backend initiatives from architectural design to deployment. Skilled in leading cross-functional teams and leveraging open-source technologies to deliver innovative solutions that elevate user experiences and drive business growth.
+- 📫 How to reach me: gendron.devin@gmail.com
 - LinkedIn: [Devin Gendron](https://linkedin.com/in/devin-gendron-789373ab)
